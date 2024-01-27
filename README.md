@@ -1,6 +1,6 @@
 # seminar3-repo
 
-Anyuta Antonovich
+Anyuta Antonovich AnyutaAntonovich
 
 
-Anna Sukhoverkhova
+Anna Sukhoverkhova  SukhoverkhovaAny
